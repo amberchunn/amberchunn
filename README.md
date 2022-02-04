@@ -11,14 +11,14 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 [![Email](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F "Email")](mailto:chunn.amber@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F "LinkedIn")](https://www.linkedin.com/in/amberchunn)
 [![Twitter](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F "Twitter")](https://twitter.com/_AmberChunn)
-[![AmberChunn.dev](https://img.shields.io/badge/-dm-0D1117?style=for-the-badge&logo=dm&logoColor=F0DB4F "AmberChunn.dev")](https://amberchunn.dev)
+[![AmberChunn.dev](https://img.shields.io/badge/-Gemoji-0D1117?style=for-the-badge&logo=gemoji&logoColor=F0DB4F "AmberChunn.dev")](https://amberchunn.dev)
 [![Amazon Wishlist](https://img.shields.io/badge/Amazon-0D1117?style=for-the-badge&logo=amazon&logoColor=F0DB4F "Amazon Wishlist")](https://www.amazon.com/hz/wishlist/ls/22HEX4PTMC6AW?ref_=wl_share)
 
 #### :balloon: Fun Facts :balloon:
 
 - :postbox: Pronouns: She/Her
 - :name_badge: AKA: "Ber"
-- :wrench: Current Work: UX Engineer for a non-profit benefiting homeless families
+- 🛠 Current Work: UX Engineer for a non-profit benefiting homeless families
 - :newspaper: Upcoming Event: Graduation from BloomTech's Full Stack Web & Computer Science Program (03/22)
 - :mortar_board: Currently Learning: Ember
 - :game_die: Favourite Hobby: Modern Board Games, Teasing my dogs
