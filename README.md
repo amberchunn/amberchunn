@@ -1,9 +1,10 @@
-# Hiya :wave:skin-tone-2:
+# Hiya :wave:
 
-[![Hello!](/assets/dog-hello.gif "Doggo Hello!")](https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570)
+<!-- [![Hello!](/assets/dog-hello.gif "Doggo Hello!")](https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570) -->
 
-## About Me :bowtie:
+# About Me :bowtie:
 
+<a href="https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570" target="_blank"><img src="/assets/dog-hello.gif" width="150" align="right"></a>
 Since the days of using HTML tables as layout tools, Amber has been obsessed with making things for the web. Her current work is focused on UX engineering and full stack web development. When she is not playing with code, Amber enjoys hanging out with her family and friends, traveling, as well as winning at modern board games.
 
 > “I am, and always will be, the optimist. The hoper of far-flung hopes, and the dreamer of improbable dreams.”
@@ -79,4 +80,4 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 
 [![Language Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=amberchunn&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F "Language Graph")]("#")
 
-> _Please Note: The most common languages are only a snapshot of technologies used in my public GitHub repositories._
+> :memo: **Please Note:** The language graph is only a snapshot of technologies used in my public GitHub repositories
