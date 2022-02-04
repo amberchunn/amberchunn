@@ -29,8 +29,8 @@
 <!-- Bassed on: https://github.com/amberchunn/github-readme-stats -->
 <p align="center">
   <br/>
-  <a href="https://github.com/amberchunn/github-readme-stats"><img alt="Amber's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=amberchunn&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" width="40%"/></a>
-  <a href="https://github.com/amberchunn/github-readme-stats"><img alt="Amber's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberchunn&langs_count=10&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=15" width="40%"/></a>
+  <a href="https://github.com/amberchunn/github-readme-stats"><img alt="Amber's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=amberchunn&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" width="40%" align="left" /></a>
+  <a href="https://github.com/amberchunn/github-readme-stats"><img alt="Amber's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberchunn&langs_count=10&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=15" width="40%" align="right" /></a>
   <br/>
     <i><b>Please Note:</b>The language listing is only a depiction of technologies used in my public GitHub repositories.</i>
 </p>
