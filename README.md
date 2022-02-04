@@ -34,11 +34,7 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 
 ## 💡 Proficient Technologies 💡
 
----
-
 ### :bowtie: Languages
-
----
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5)
@@ -49,16 +45,12 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 
 ### :books: Libraries & Frameworks
 
----
-
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
 ![styled-components](https://img.shields.io/badge/-Styled%20Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
 
 ### :cherry_blossom: UI/UX
-
----
 
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma)
 ![Ant](https://img.shields.io/badge/-Ant-0D1117?style=flat-square&logo=apache-ant)
@@ -68,8 +60,6 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 ![Illustrator](https://img.shields.io/badge/-Illustrator-0D1117?style=flat-square&logo=adobe-illustrator)
 
 ### :coffee: Other/Misc
-
----
 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github)
