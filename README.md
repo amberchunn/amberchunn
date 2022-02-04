@@ -1,7 +1,8 @@
-<h1 align="center">
-  Hiya!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
-</h1>
+# Hiya!
+
+<a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+
+## Connect With Me
 
 <p align="center">
   <a href="mailto:chunn.amber@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
@@ -11,42 +12,57 @@
   <a href="https://www.amazon.com/hz/wishlist/ls/22HEX4PTMC6AW?ref_=wl_share" target="_blank"><img src="https://img.shields.io/badge/Amazon-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a>
 </p>
 
-<br/>
+<hr/>
 
 ## About Me
 
 <p>Since the days of using HTML tables as layout tools, Amber has been obsessed with making things for the web. Her current work is focused on UX engineering and full stack web development. When she is not playing with code, Amber enjoys hanging out with her family and friends, traveling, as well as winning at modern board games.</p>
+
 - 🔭 I’m currently finishing up an apprenticeship as a UX Engineer for a non-profit
 - 😄 Pronouns: She/Her
 - ⚡ AKA "Ber"
 - 🌱 I’m currently learning Ember
 - 💬 Ask me about Modern Board Games
 
-<!-- GitHub stats section -->
+<hr/>
 
-## Github stats
-
+<!-- GitHub Contributions Section -->
 <!-- Bassed on: https://github.com/amberchunn/github-readme-stats -->
-<p align="center">
-  <br/>
-  <a href="https://github.com/amberchunn/github-readme-stats"><img alt="Amber's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=amberchunn&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" width="40%" align="left" /></a>
-  <a href="https://github.com/amberchunn/github-readme-stats"><img alt="Amber's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberchunn&langs_count=10&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=15" width="40%" align="right" /></a>
-  <br/>
-    <i><b>Please Note:</b>The language listing is only a depiction of technologies used in my public GitHub repositories.</i>
-</p>
 
-  <hr/>
+## Contribution Overview
 
-  <div>
-    <a href="#"><img alt="Amber's GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amberchunn&custom_title=Amber's%20Contributions&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
-  <div>
-</div>
+<!-- Profile Trophy -->
 
-<br/>
+### 🏆 GitHub Profile Trophy:
 
-<h2>Technologies</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amberchunn&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
 
-<br/>
+<!--   Stats -->
+
+### GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amberchunn&theme=nord&show_icons=true&count_private=true)
+
+<!--   Most Common Languages Used -->
+
+### 👨‍💻 Most Common Languages<sup>\*</sup>:
+
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amberchunn&theme=nord_dark)
+![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amberchunn&theme=nord_dark)
+
+<!--   GitHub Graph -->
+
+### 📈 GitHub Activity Graph:
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amberchunn&theme=github)
+
+##### <sup>\*</sup> <strong>Please Note:</strong> The language listing is only a depiction of technologies used in my public GitHub repositories.
+
+<hr/>
+
+## Technologies
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
@@ -76,6 +92,8 @@
 ![Illustrator](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-illustrator&message=Illustrator&label=&color=FF9A00&labelColor=000000)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&logo=figma&message=Figma&label=&color=EE3D8F&labelColor=000000)
 </p>
+
+<hr/>
 
 <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
