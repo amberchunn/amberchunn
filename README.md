@@ -1,9 +1,5 @@
 # Hiya :wave:
 
-<!-- [![Hello!](/assets/dog-hello.gif "Doggo Hello!")](https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570) -->
-
-# About Me :bowtie:
-
 <a href="https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570" target="_blank"><img src="/assets/dog-hello.gif" width="150" align="right"></a>
 Since the days of using HTML tables as layout tools, Amber has been obsessed with making things for the web. Her current work is focused on UX engineering and full stack web development. When she is not playing with code, Amber enjoys hanging out with her family and friends, traveling, as well as winning at modern board games.
 
@@ -18,7 +14,7 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 [![AmberChunn.dev](https://img.shields.io/badge/-dm-0D1117?style=for-the-badge&logo=dm&logoColor=F0DB4F "AmberChunn.dev")](https://amberchunn.dev)
 [![Amazon Wishlist](https://img.shields.io/badge/Amazon-0D1117?style=for-the-badge&logo=amazon&logoColor=F0DB4F "Amazon Wishlist")](https://www.amazon.com/hz/wishlist/ls/22HEX4PTMC6AW?ref_=wl_share)
 
-#### Fun Facts :balloon: :balloon:
+#### :balloon: Fun Facts :balloon:
 
 - :postbox: Pronouns: She/Her
 - :name_badge: AKA: "Ber"
@@ -27,7 +23,7 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 - :mortar_board: Currently Learning: Ember
 - :game_die: Favourite Hobby: Modern Board Games, Teasing my dogs
 
-#### What I'm Listening To :headphones:
+#### :headphones: What I'm Listening To :headphones:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229684751&cover_image=true&theme=novatorem&bar_color=08a9c9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -68,7 +64,7 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Bassed On: https://github.com/amberchunn/github-readme-stats -->
 
-## GitHub Contribution Overview :bar_chart:
+## GitHub Contribution Overview :googleanalytics:
 
 ### Profile Trophies :trophy:
 
@@ -80,4 +76,4 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 
 [![Language Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=amberchunn&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F "Language Graph")]("#")
 
-> :memo: **Please Note:** The language graph is only a snapshot of technologies used in my public GitHub repositories
+> :memo: **Note:** The language graph is only a snapshot of technologies used in my public GitHub repositories
