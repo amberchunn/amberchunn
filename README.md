@@ -47,8 +47,6 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=PHP)
 ![Markdown](https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=Markdown)
 
----
-
 ### :books: Libraries & Frameworks
 
 ---
@@ -57,8 +55,6 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 ![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
 ![styled-components](https://img.shields.io/badge/-Styled%20Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
-
----
 
 ### :cherry_blossom: UI/UX
 
@@ -70,8 +66,6 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 ![Afinity Photo](https://img.shields.io/badge/-Affinity%20Photo-0D1117?style=flat-square&logo=affinityphoto)
 ![Afiity Designer](https://img.shields.io/badge/-Affinity%20Designer-0D1117?style=flat-square&logo=affinitydesigner)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-0D1117?style=flat-square&logo=adobe-illustrator)
-
----
 
 ### :coffee: Other/Misc
 
