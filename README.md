@@ -13,30 +13,32 @@
 
 <br/>
 
-<h2>Fun Facts About Me</h2>
+## About Me
+
+<p>Since the days of using HTML tables as layout tools, Amber has been obsessed with making things for the web. Her current work is focused on UX engineering and full stack web development. When she is not playing with code, Amber enjoys hanging out with her family and friends, traveling, as well as winning at modern board games.</p>
 - 🔭 I’m currently finishing up an apprenticeship as a UX Engineer for a non-profit
 - 😄 Pronouns: She/Her
 - ⚡ AKA "Ber"
 - 🌱 I’m currently learning Ember
 - 💬 Ask me about Modern Board Games
 
-<h2>📃 Github Stats</h2>
+<!-- GitHub stats section -->
 
-<br/>
+## Github stats
 
-<diV>
-
-  <div align="center">
-    <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=amberchunn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Language Listing" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberchunn&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <br/>
+<!-- Bassed on: https://github.com/amberchunn/github-readme-stats -->
+<p align="center">
+  <br/>
+  <a href="https://github.com/amberchunn/github-readme-stats"><img alt="Amber's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DavidsDvm&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/amberchunn/github-readme-stats"><img alt="Amber's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberchunn&langs_count=10&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=15" height="192px"/></a>
+  <br/>
     <i><b>Please Note:</b>The language listing is only a depiction of technologies used in my public GitHub repositories.</i>
-  </div>
+</p>
 
   <hr/>
 
   <div>
-    <a href="#"><img alt="Amber's GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amberchunn&custom_title=Thiago%20Souza's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Amber's GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amberchunn&custom_title=Amber%20Chunn's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div>
 </div>
 
