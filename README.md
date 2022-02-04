@@ -1,22 +1,20 @@
 # Hiya!
 
-<a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+## About Me
 
-## Connect With Me
+<p>Since the days of using HTML tables as layout tools, Amber has been obsessed with making things for the web. Her current work is focused on UX engineering and full stack web development. When she is not playing with code, Amber enjoys hanging out with her family and friends, traveling, as well as winning at modern board games.</p>
+
+### Connect With Me
 
 <p align="center">
   <a href="mailto:chunn.amber@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
   <a href="https://www.linkedin.com/in/amberchunn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a>
-  <a href="https://twitter.com/_AmberChunn" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
-    <a href="https://amberchunn.dev" target="_blank"><img src="https://img.shields.io/badge/-Web-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-  <a href="https://www.amazon.com/hz/wishlist/ls/22HEX4PTMC6AW?ref_=wl_share" target="_blank"><img src="https://img.shields.io/badge/Amazon-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a>
+  <a href="https://twitter.com/_AmberChunn" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F"></a>
+    <a href="https://amberchunn.dev" target="_blank"><img src="https://img.shields.io/badge/-Web-0D1117?style=for-the-badge&logo=web&logoColor=F0DB4F"></a>
+  <a href="https://www.amazon.com/hz/wishlist/ls/22HEX4PTMC6AW?ref_=wl_share" target="_blank"><img src="https://img.shields.io/badge/Amazon-0D1117?style=for-the-badge&logo=amazon&logoColor=F0DB4F"></a>
 </p>
 
-<hr/>
-
-## About Me
-
-<p>Since the days of using HTML tables as layout tools, Amber has been obsessed with making things for the web. Her current work is focused on UX engineering and full stack web development. When she is not playing with code, Amber enjoys hanging out with her family and friends, traveling, as well as winning at modern board games.</p>
+### Fun Facts
 
 - 🔭 I’m currently finishing up an apprenticeship as a UX Engineer for a non-profit
 - 😄 Pronouns: She/Her
@@ -26,43 +24,7 @@
 
 <hr/>
 
-<!-- GitHub Contributions Section -->
-<!-- Bassed on: https://github.com/amberchunn/github-readme-stats -->
-
-## Contribution Overview
-
-<!-- Profile Trophy -->
-
-### 🏆 GitHub Profile Trophy:
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amberchunn&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-
-<!--   Stats -->
-
-### GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amberchunn&theme=nord&show_icons=true&count_private=true)
-
-<!--   Most Common Languages Used -->
-
-### 👨‍💻 Most Common Languages<sup>\*</sup>:
-
-![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amberchunn&theme=nord_dark)
-![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amberchunn&theme=nord_dark)
-
-<!--   GitHub Graph -->
-
-### 📈 GitHub Activity Graph:
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amberchunn&theme=github)
-
-##### <sup>\*</sup> <strong>Please Note:</strong> The language listing is only a depiction of technologies used in my public GitHub repositories.
-
-<hr/>
-
-## Technologies
+## Competencies
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
@@ -93,8 +55,29 @@
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&logo=figma&message=Figma&label=&color=EE3D8F&labelColor=000000)
 </p>
 
-<hr/>
+<hr />
 
-<p align="center">
-  <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
-</p>
+<!-- GitHub Contributions Section -->
+<!-- Bassed on: https://github.com/amberchunn/github-readme-stats -->
+
+## Contribution Overview
+
+### 🏆 Profile Trophies:
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=amberchunn&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
+</a>
+
+### Stats:
+
+![(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github-readme-stats.vercel.app/api?username=amberchunn&theme=racical&show_icons=true&count_private=true&layout=compact)
+
+### 👨‍💻 Most Common Languages<sup>\*</sup>:
+
+![(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amberchunn&theme=radical&layout=compact)
+
+### 📈 Activity Graph:
+
+![Recent Activity](https://activity-graph.herokuapp.com/graph?username=amberchunn&theme=radical)
+
+##### <sup>\*</sup> <strong>Please Note:</strong> The most common languages are only a snapshot of technologies used in my public GitHub repositories.
