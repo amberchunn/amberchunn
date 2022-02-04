@@ -1,34 +1,38 @@
-# :wave::skin-tone-2: Hiya! I'm Amber, please to meet you
+# Hiya :wave:skin-tone-2:
 
-<img src="https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570">
+[![Hello!](/assets/dog-hello.gif "Doggo Hello!")](https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570)
 
-## About Me
+## About Me :bowtie:
 
 Since the days of using HTML tables as layout tools, Amber has been obsessed with making things for the web. Her current work is focused on UX engineering and full stack web development. When she is not playing with code, Amber enjoys hanging out with her family and friends, traveling, as well as winning at modern board games.
 
-### Connect With Me
+> “I am, and always will be, the optimist. The hoper of far-flung hopes, and the dreamer of improbable dreams.”
+> ― Matt Smith, The Eleventh Doctor
 
-    <a href="mailto:chunn.amber@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-    <a href="https://www.linkedin.com/in/amberchunn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a>
-    <a href="https://twitter.com/_AmberChunn" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F"></a>
-    <a href="https://amberchunn.dev" target="_blank"><img src="https://img.shields.io/badge/-World-0D1117?style=for-the-badge&logo=world&logoColor=F0DB4F"></a>
-    <a href="https://www.amazon.com/hz/wishlist/ls/22HEX4PTMC6AW?ref_=wl_share" target="_blank"><img src="https://img.shields.io/badge/Amazon-0D1117?style=for-the-badge&logo=amazon&logoColor=F0DB4F"></a>
+### Connect With Me :calling:
 
-### Fun Facts
+[![Email](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F "Email")](mailto:chunn.amber@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F "LinkedIn")](https://www.linkedin.com/in/amberchunn)
+[![Twitter](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F "Twitter")](https://twitter.com/_AmberChunn)
+[![AmberChunn.dev](https://img.shields.io/badge/-dm-0D1117?style=for-the-badge&logo=dm&logoColor=F0DB4F "AmberChunn.dev")](https://amberchunn.dev)
+[![Amazon Wishlist](https://img.shields.io/badge/Amazon-0D1117?style=for-the-badge&logo=amazon&logoColor=F0DB4F "Amazon Wishlist")](https://www.amazon.com/hz/wishlist/ls/22HEX4PTMC6AW?ref_=wl_share)
 
-- 🔭 I’m currently finishing up an apprenticeship as a UX Engineer for a non-profit
-- 😄 Pronouns: She/Her
-- ⚡ AKA "Ber"
-- 🌱 I’m currently learning Ember
-- 💬 Ask me about Modern Board Games
+#### Fun Facts :balloon: :balloon:
 
-### What I'm Listening To
+- :postbox: Pronouns: She/Her
+- :name_badge: AKA: "Ber"
+- :wrench: Current Work: UX Engineer for a non-profit benefiting homeless families
+- :newspaper: Upcoming Event: Graduation from BloomTech's Full Stack Web & Computer Science Program (03/22)
+- :mortar_board: Currently Learning: Ember
+- :game_die: Favourite Hobby: Modern Board Games, Teasing my dogs
+
+#### What I'm Listening To :headphones:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229684751&cover_image=true&theme=novatorem&bar_color=08a9c9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<hr/>
+---
 
-## Competencies
+## Competencies :notebook:
 
     <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
     <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"></a>
@@ -57,34 +61,22 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
     ![Illustrator](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-illustrator&message=Illustrator&label=&color=FF9A00&labelColor=000000)
     ![Figma](https://img.shields.io/static/v1?style=for-the-badge&logo=figma&message=Figma&label=&color=EE3D8F&labelColor=000000)
 
+---
+
 <!-- GitHub Contributions Section -->
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Bassed On: https://github.com/amberchunn/github-readme-stats -->
 
-## GitHub Contribution Overview
+## GitHub Contribution Overview :bar_chart:
 
-### 🏆 Profile Trophies
+### Profile Trophies :trophy:
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=amberchunn&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
-</a>
+[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=amberchunn&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=10 "Profile Trophies")](https://github.com/ryo-ma/github-profile-trophy)
 
-### Statistics<sup>\*</sup>
+### Statistics :chart_with_upwards_trend:
 
-<div>
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=amberchunn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F "GitHub Statistics")]("#")
 
-  <div align="center">
-    <a href="#"><img alt="Amber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amberchunn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Amber's Commited Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberchunn&langs_count=5&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-  </div>
-    <h5>
-        <strong>* Please Note:</strong> The most common languages are only a snapshot of technologies used in my public GitHub repositories.
-    </h5>
-</div>
+[![Language Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=amberchunn&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F "Language Graph")]("#")
 
-<hr/>
-
-<div>
-    <a href="#"><img alt="Amber's Activity" src="https://activity-graph.herokuapp.com/graph?username=amberchunn&custom_title=Contributions&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
-<div>
-</div>
+> _Please Note: The most common languages are only a snapshot of technologies used in my public GitHub repositories._
