@@ -69,16 +69,4 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 ![Netlify](https://img.shields.io/badge/-Netlify-0D1117?style=flat-square&logo=netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku)
 
----
 
-<!-- GitHub Contributions Section -->
-<!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Bassed On: https://github.com/amberchunn/github-readme-stats -->
-
-## 🏆 Profile Trophies 🏆
-
-[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=amberchunn&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=10 "Profile Trophies")](https://github.com/ryo-ma/github-profile-trophy)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amberchunn&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=27E5F0)
-
-> :memo: **Note:** The language graph is only a snapshot of technologies used in my public GitHub repositories
