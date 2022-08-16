@@ -11,7 +11,12 @@
 ## Hiya 👋
 
 <a href="https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570" target="_blank"><img src="/assets/dog-hello.gif" width="150" align="right"></a>
-Since the days of using HTML tables as layout tools, Amber has been obsessed with making things for the web. Her current work is focused on UX engineering and full stack web development. When she is not playing with code, Amber enjoys hanging out with her family and friends, traveling, as well as winning at modern board games.
+Amber is a Unity and C# developer who draws upon her experience in UX engineering to create immersive experiences that delight users. She is a passionate game designer and engineer who thrives wehn adding meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about new technologies. Aside from coding, she loves to play games (both digital and analog), and hang out with her family and friends.
+
+Strengths:
+- Creative Problem Solver
+- Collaborative Team Member
+- Empathetic Communicator
 
 > “I am, and always will be, the optimist. The hoper of far-flung hopes, and the dreamer of improbable dreams.”
 > ― Matt Smith, The Eleventh Doctor
