@@ -36,7 +36,7 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 
 ### :bowtie: Languages 
 
-![C#](https://img.shields.io/badge/-Csharp-D1117?style=flat-square&logo=csharp&logoColor=red)
+![C#](https://img.shields.io/badge/-Csharp-0D1117?style=flat-square&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=blue)
