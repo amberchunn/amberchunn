@@ -20,10 +20,10 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 
 - :postbox: Pronouns: She/Her
 - :hash: AKA: "Ber"
-- 🛠 Current Work: UX Engineer for a non-profit benefiting homeless families
-- :newspaper: Upcoming Event: [Graduation from BloomTech's Full Stack Web & Computer Science Program (03/22)](https://www.bloomtech.com/)
-- :mortar_board: Currently Learning: [Ember](https://emberjs.com/)
-- :game_die: Currently Playing: [Terriforming Mars - Ares Expansion](https://boardgamegeek.com/boardgame/328871/terraforming-mars-ares-expedition)
+- 🛠 Current Work: Unity C# Developer
+- :newspaper: Starship Shooter game is complete. Time for polishing.
+- :mortar_board: Currently Learning: [C++]([https://emberjs.com/](https://docs.microsoft.com/en-us/cpp/?view=msvc-170))
+- :game_die: Currently Playing: Tony Hawks Pro Skater 1
 - :feet: Magnus, Mochi
 
 ### :notes: What I'm Listening To 🎧
@@ -34,8 +34,9 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 
 ## 💡 Proficient Technologies 💡
 
-### :bowtie: Languages
+### :bowtie: Languages 
 
+![C#](https://img.shields.io/badge/-Csharp-D1117?style=flat-square&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=blue)
@@ -61,6 +62,7 @@ Since the days of using HTML tables as layout tools, Amber has been obsessed wit
 
 ### :coffee: Other/Misc
 
+![Unity](https://img.shields.io/badge/-Unity-0D1117?style=flat-square&logo=unity)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql)
