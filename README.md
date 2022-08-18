@@ -26,7 +26,7 @@ Strengths:
 - :postbox: Pronouns: She/Her
 - :hash: AKA: "Ber"
 - 🛠 Current Work: Unity C# Developer
-- :newspaper: Starship Shooter game is complete. Time for polishing.
+- :newspaper: Event - [WiW 10•10 inaugural Game Jam](https://itch.io/jam/1010-wigjam)
 - :mortar_board: Currently Learning: [C++]([https://emberjs.com/](https://docs.microsoft.com/en-us/cpp/?view=msvc-170))
 - :game_die: Currently Playing: Tony Hawks Pro Skater 1
 - :feet: Magnus, Mochi
