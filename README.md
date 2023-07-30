@@ -11,7 +11,7 @@
 ## Hiya 👋
 
 <a href="https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570" target="_blank"><img src="/assets/dog-hello.gif" width="150" align="right"></a>
-Amber is a Unity and C# developer who draws upon her experience in UX engineering to create immersive experiences that delight users. She is a passionate game designer and engineer who thrives wehn adding meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about new technologies. Aside from coding, she loves to play games (both digital and analog), and hang out with her family and friends.
+Amber is a Unity and C# developer who draws upon her experience in Frontend UI/UX engineering to create immersive experiences that delight users. She is a passionate game designer and engineer who thrives when adding meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about new technologies. Aside from coding, she loves to play games (both digital and analog), and hang out with her family and friends.
 
 Strengths:
 - Creative Problem Solver
@@ -25,15 +25,14 @@ Strengths:
 
 - :postbox: Pronouns: She/Her
 - :hash: AKA: "Ber"
-- 🛠 Current Work: Unity C# Developer
-- :newspaper: Event - [WiW 10•10 inaugural Game Jam](https://itch.io/jam/1010-wigjam)
-- :mortar_board: Continuing Education: Game Design & Development
-- :game_die: Currently Playing: Tony Hawks Pro Skater 1
+- 🛠 Current Work: Frontend Engineer @Shrapnel
+- :mortar_board: AccelByte API
+- :game_die: Currently Playing: Kards
 - :feet: Magnus, Mochi
 
 ### :notes: What I'm Listening To 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229684751&cover_image=true&theme=novatorem&bar_color=08a9c9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[Brain.fm](https://my.brain.fm/?promotionCode=promo_1KC6DhDxyvLufNfyZ264p2Za&name=Your%20First%20Month%20of%20Brain.fm%20Pro%20for%20$1&displayCost=1.00&description=You%27ve%20been%20referred!%20Get%201%20Month%20of%20Brain.fm%20Pro%20for%20$1&targetPlan=Monthly)
 
 ---
 
@@ -42,6 +41,7 @@ Strengths:
 ### :bowtie: Languages 
 
 ![C#](https://img.shields.io/badge/-Csharp-0D1117?style=flat-square&logo=csharp)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=blue)
@@ -49,17 +49,19 @@ Strengths:
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=PHP)
 ![Markdown](https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=Markdown)
 
+
 ### :books: Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
 ![styled-components](https://img.shields.io/badge/-Styled%20Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion?logo=logo=data:image/webp%2bxml;base64,aHR0cHM6Ly9jYW1vLmdpdGh1YnVzZXJjb250ZW50LmNvbS8xNzlkNjZhYjJiMDMyMTcyNmM4OGE1ODZjNGFkMzg4MDJlNzExM2EzYzk4YzZmZDNmMDE1NmMwMWM5OGNmZDE0LzY4NzQ3NDcwNzMzYTJmMmY2NjcyNjE2ZDY1NzI3NTczNjU3MjYzNmY2ZTc0NjU2ZTc0MmU2MzZmNmQyZjY5NmQ2MTY3NjU3MzJmMzQzODY4NjEzOTVhNTIzOTZmNWE1MTQ3NTEzNjY3NWEzODU5NTU2NjQ1NmM1MDMzNTQzMDQxMmU3MDZlNjc)
 
 ### :cherry_blossom: UI/UX
 
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma)
-![Ant](https://img.shields.io/badge/-Ant-0D1117?style=flat-square&logo=apache-ant)
+![MUI](https://img.shields.io/badge/-Mui-0D1117?style=flat-square&logo=mui)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat-square&logo=adobe-photoshop)
 ![Afinity Photo](https://img.shields.io/badge/-Affinity%20Photo-0D1117?style=flat-square&logo=affinityphoto)
 ![Afiity Designer](https://img.shields.io/badge/-Affinity%20Designer-0D1117?style=flat-square&logo=affinitydesigner)
@@ -73,7 +75,5 @@ Strengths:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker)
-![Netlify](https://img.shields.io/badge/-Netlify-0D1117?style=flat-square&logo=netlify)
-![Heroku](https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku)
 
 
