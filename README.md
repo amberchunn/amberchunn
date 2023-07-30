@@ -2,9 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=27E5F0 "LinkedIn")](https://www.linkedin.com/in/amberchunn)
 [![Twitter](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=27E5F0 "Twitter")](https://twitter.com/_AmberChunn)
-[![AmberChunn.dev](https://img.shields.io/badge/-www-0D1117?style=for-the-badge&logo=circle&logoColor=27E5F0 "WWW")](https://amberchunn.dev)
 [![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=27E5F0 "Email")](mailto:chunn.amber@gmail.com)
-[![Amazon Wishlist](https://img.shields.io/badge/Wishlist-0D1117?style=for-the-badge&logo=amazon&logoColor=27E5F0 "Amazon Wishlist")](https://www.amazon.com/hz/wishlist/ls/22HEX4PTMC6AW?ref_=wl_share)
+
 
 ---
 
@@ -56,7 +55,7 @@ Strengths:
 ![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
 ![styled-components](https://img.shields.io/badge/-Styled%20Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion?logo=logo=data:image/webp%2bxml;base64,aHR0cHM6Ly9jYW1vLmdpdGh1YnVzZXJjb250ZW50LmNvbS8xNzlkNjZhYjJiMDMyMTcyNmM4OGE1ODZjNGFkMzg4MDJlNzExM2EzYzk4YzZmZDNmMDE1NmMwMWM5OGNmZDE0LzY4NzQ3NDcwNzMzYTJmMmY2NjcyNjE2ZDY1NzI3NTczNjU3MjYzNmY2ZTc0NjU2ZTc0MmU2MzZmNmQyZjY5NmQ2MTY3NjU3MzJmMzQzODY4NjEzOTVhNTIzOTZmNWE1MTQ3NTEzNjY3NWEzODU5NTU2NjQ1NmM1MDMzNTQzMDQxMmU3MDZlNjc)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0D1117?style=flat-square&logo=logo=data:image/webp%2bxml;base64,aHR0cHM6Ly9jYW1vLmdpdGh1YnVzZXJjb250ZW50LmNvbS8xNzlkNjZhYjJiMDMyMTcyNmM4OGE1ODZjNGFkMzg4MDJlNzExM2EzYzk4YzZmZDNmMDE1NmMwMWM5OGNmZDE0LzY4NzQ3NDcwNzMzYTJmMmY2NjcyNjE2ZDY1NzI3NTczNjU3MjYzNmY2ZTc0NjU2ZTc0MmU2MzZmNmQyZjY5NmQ2MTY3NjU3MzJmMzQzODY4NjEzOTVhNTIzOTZmNWE1MTQ3NTEzNjY3NWEzODU5NTU2NjQ1NmM1MDMzNTQzMDQxMmU3MDZlNjc)
 
 ### :cherry_blossom: UI/UX
 
