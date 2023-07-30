@@ -53,9 +53,9 @@ Strengths:
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
-![styled-components](https://img.shields.io/badge/-Styled%20Components-0D1117?style=flat-square&logo=styledcomponents)
+![styled-components](https://img.shields.io/badge/-Styled_Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-?style=flat-square&logo=data:image/webp%2bxml;base64,aHR0cHM6Ly9jYW1vLmdpdGh1YnVzZXJjb250ZW50LmNvbS8xNzlkNjZhYjJiMDMyMTcyNmM4OGE1ODZjNGFkMzg4MDJlNzExM2EzYzk4YzZmZDNmMDE1NmMwMWM5OGNmZDE0LzY4NzQ3NDcwNzMzYTJmMmY2NjcyNjE2ZDY1NzI3NTczNjU3MjYzNmY2ZTc0NjU2ZTc0MmU2MzZmNmQyZjY5NmQ2MTY3NjU3MzJmMzQzODY4NjEzOTVhNTIzOTZmNWE1MTQ3NTEzNjY3NWEzODU5NTU2NjQ1NmM1MDMzNTQzMDQxMmU3MDZlNjc)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=data:image/webp%2bxml;base64,aHR0cHM6Ly9jYW1vLmdpdGh1YnVzZXJjb250ZW50LmNvbS8xNzlkNjZhYjJiMDMyMTcyNmM4OGE1ODZjNGFkMzg4MDJlNzExM2EzYzk4YzZmZDNmMDE1NmMwMWM5OGNmZDE0LzY4NzQ3NDcwNzMzYTJmMmY2NjcyNjE2ZDY1NzI3NTczNjU3MjYzNmY2ZTc0NjU2ZTc0MmU2MzZmNmQyZjY5NmQ2MTY3NjU3MzJmMzQzODY4NjEzOTVhNTIzOTZmNWE1MTQ3NTEzNjY3NWEzODU5NTU2NjQ1NmM1MDMzNTQzMDQxMmU3MDZlNjc&logoColor=pink)
 
 ### :cherry_blossom: UI/UX
 
