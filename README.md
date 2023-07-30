@@ -55,7 +55,7 @@ Strengths:
 ![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
 ![styled-components](https://img.shields.io/badge/-Styled_Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9jYW1vLmdpdGh1YnVzZXJjb250ZW50LmNvbS8xNzlkNjZhYjJiMDMyMTcyNmM4OGE1ODZjNGFkMzg4MDJlNzExM2EzYzk4YzZmZDNmMDE1NmMwMWM5OGNmZDE0LzY4NzQ3NDcwNzMzYTJmMmY2NjcyNjE2ZDY1NzI3NTczNjU3MjYzNmY2ZTc0NjU2ZTc0MmU2MzZmNmQyZjY5NmQ2MTY3NjU3MzJmMzQzODY4NjEzOTVhNTIzOTZmNWE1MTQ3NTEzNjY3NWEzODU5NTU2NjQ1NmM1MDMzNTQzMDQxMmU3MDZlNjc)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=https://camo.githubusercontent.com/179d66ab2b0321726c88a586c4ad38802e7113a3c98c6fd3f0156c01c98cfd14/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67)
 
 ### :cherry_blossom: UI/UX
 
