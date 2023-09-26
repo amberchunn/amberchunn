@@ -45,7 +45,6 @@ Strengths:
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=PHP)
 ![Markdown](https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=Markdown)
 
 
@@ -56,6 +55,7 @@ Strengths:
 ![styled-components](https://img.shields.io/badge/-Styled_Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=hotpink)
+![MUI](https://img.shields.io/badge/MUI-0D1117?style=flat-square&logo=mui&logoColor=mui)
 
 ### :cherry_blossom: UI/UX
 
