@@ -25,9 +25,10 @@ Strengths:
 - :postbox: Pronouns: She/Her
 - :hash: AKA: "Ber"
 - 🛠 Current Work: Frontend Engineer, EXP Team @Shrapnel
-- :mortar_board: Character Modeling, Textures, Particle Systems 
+- :mortar_board: Learning: Shaders, Particle Systems
+- :books: Reading: [Level Up! The Guide to Great Video Game Design](https://a.co/d/f8M9eGB), [Essential Math for Game Devs](https://www.jettelly.com/books/visualizing-equations-essential-math/)
 - :game_die: Currently Playing: [Marvel SNAP](https://www.marvelsnap.com/), [Starfield](https://bethesda.net/en/game/starfield), [Kards](https://www.kards.com/)
-- :feet: Magnus, Mochi
+- :feet: Fur Babies: Magnus, Mochi
 
 ### :notes: What I'm Listening To 🎧
 
@@ -48,7 +49,7 @@ Strengths:
 ![Markdown](https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=Markdown)
 
 
-### :books: Libraries & Frameworks
+### 🏗️ Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat-square&logo=nextdotjs)
