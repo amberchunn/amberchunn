@@ -26,7 +26,7 @@ Strengths:
 - :hash: AKA: "Ber"
 - 🛠 Current Work: Frontend Engineer, EXP Team @Shrapnel
 - :mortar_board: Character Modeling, Textures, Particle Systems 
-- :game_die: Currently Playing: [Marvel SNAP](https://www.marvelsnap.com/)
+- :game_die: Currently Playing: [Marvel SNAP](https://www.marvelsnap.com/), [Starfield](https://bethesda.net/en/game/starfield), [Kards](https://www.kards.com/)
 - :feet: Magnus, Mochi
 
 ### :notes: What I'm Listening To 🎧
@@ -51,7 +51,7 @@ Strengths:
 ### :books: Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react)
-![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat-square&logo=next)
+![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat-square&logo=nextdotjs)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
 ![styled-components](https://img.shields.io/badge/-Styled_Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
