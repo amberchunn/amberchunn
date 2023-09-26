@@ -55,7 +55,7 @@ Strengths:
 ![styled-components](https://img.shields.io/badge/-Styled_Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=hotpink)
-![MUI](https://img.shields.io/badge/MUI-0D1117?style=flat-square&logo=mui&logoColor=mui)
+![MUI](https://img.shields.io/badge/mui-007FFF?style=flat-square&logo=mui&logoColor=mui)
 
 ### :cherry_blossom: UI/UX
 
