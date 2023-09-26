@@ -25,8 +25,8 @@ Strengths:
 - :postbox: Pronouns: She/Her
 - :hash: AKA: "Ber"
 - 🛠 Current Work: Frontend Engineer, EXP Team @Shrapnel
-- :mortar_board: AccelByte API
-- :game_die: Currently Playing: Kards
+- :mortar_board: Character Modeling, Textures, Particle Systems 
+- :game_die: Currently Playing: [Marvel SNAP](https://www.marvelsnap.com/)
 - :feet: Magnus, Mochi
 
 ### :notes: What I'm Listening To 🎧
@@ -51,11 +51,11 @@ Strengths:
 ### :books: Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat-square&logo=next)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
 ![styled-components](https://img.shields.io/badge/-Styled_Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=hotpink)
-![MUI](https://img.shields.io/badge/mui-007FFF?style=flat-square&logo=mui&logoColor=mui)
 
 ### :cherry_blossom: UI/UX
 
