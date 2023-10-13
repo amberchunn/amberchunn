@@ -10,7 +10,7 @@
 ## Hiya 👋
 
 <a href="https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570" target="_blank"><img src="/assets/dog-hello.gif" width="150" align="right"></a>
-Amber's current work is focused in UI/UX Engineering for AAA games. She works with Unity, C#, and various web technologies to create immersive experiences that delight users. She is a passionate game designer and engineer who thrives when adding meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about new technologies. Aside from coding, she loves to play games (both digital and analog), and hang out with her family and friends.
+Amber's current work is focused in UI/UX Engineering and Technical Art. She works with a wide-range of technologies and enjoys straddling the line between art/design and code. Careful consideration of feedback and various paths during planning enables her to provide high-quality, immersive experiences that delight users. She is a passionate engineer and designer who thrives when adding meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about new technologies. Aside from coding, she loves to play games (both digital and analog), and hang out with her family and friends.
 
 Strengths:
 - Creative Problem Solver
@@ -26,7 +26,7 @@ Strengths:
 - :hash: AKA: "Ber"
 - 🛠 Current Work: Frontend Engineer, EXP Team @Shrapnel
 - :mortar_board: Learning: Shaders, Particle Systems
-- :books: Reading: [Level Up! The Guide to Great Video Game Design](https://a.co/d/f8M9eGB), [Essential Math for Game Devs](https://www.jettelly.com/books/visualizing-equations-essential-math/)
+- :books: Reading: [Level Up! The Guide to Great Video Game Design](https://a.co/d/f8M9eGB), [Physically Based Renderring](https://pbrt.org/)
 - :game_die: Currently Playing: [Marvel SNAP](https://www.marvelsnap.com/), [Starfield](https://bethesda.net/en/game/starfield), [Kards](https://www.kards.com/)
 - :feet: Fur Babies: Magnus, Mochi
 
