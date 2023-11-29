@@ -1,7 +1,7 @@
 # :iphone: Connect With Me 📲
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=27E5F0 "LinkedIn")](https://www.linkedin.com/in/amberchunn)
-[![Twitter](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=27E5F0 "Twitter")](https://twitter.com/_AmberChunn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=27E5F0 "LinkedIn")](https://www.linkedin.com/in/amber-chunn)
+[![Medium](https://img.shields.io/badge/-Medium-0D1117?style=for-the-badge&logo=twitter&logoColor=27E5F0 "Medium")]([https://medium.com/@amber_codes)
 [![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=27E5F0 "Email")](mailto:chunn.amber@gmail.com)
 
 
@@ -10,7 +10,7 @@
 ## Hiya 👋
 
 <a href="https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570" target="_blank"><img src="/assets/dog-hello.gif" width="150" align="right"></a>
-Amber's current work is focused in UI/UX Engineering and Technical Art. She works with a wide-range of technologies and enjoys straddling the line between art/design and code. Careful consideration of feedback and various paths during planning enables her to provide high-quality, immersive experiences that delight users. She is a passionate engineer and designer who thrives when adding meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about new technologies. Aside from coding, she loves to play games (both digital and analog), and hang out with her family and friends.
+With a background in UI/UX enginerring, Amber is a Technical Artist and Game Designer who thrives when working at the intersection of art, design and code. Having a growdth mindset provides her with a drive for personal development as well as a vast and ever-growing toolbox. Examining different points of view and carefully considering feedback enables her to provide elegant solutions and immersive experiences that resonate with players. She is a passionate artist, designer, and engineer who thrives when adding meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about creating games and experiences for all kinds of players to enjoy. Aside from coding, she loves to play games (both digital and analog), and hang out with her family and friends.
 
 Strengths:
 - Creative Problem Solver
@@ -24,10 +24,10 @@ Strengths:
 
 - :postbox: Pronouns: She/Her
 - :hash: AKA: "Ber"
-- 🛠 Current Work: Frontend Engineer, EXP Team @Shrapnel
-- :mortar_board: Learning: Shaders, Particle Systems
+- :brain: MBTI: INFJ
+- :mortar_board: Learning: Unity UI Kit, Shaders, Particle Systems
 - :books: Reading: [Level Up! The Guide to Great Video Game Design](https://a.co/d/f8M9eGB), [Physically Based Renderring](https://pbrt.org/)
-- :game_die: Currently Playing: [Marvel SNAP](https://www.marvelsnap.com/), [Starfield](https://bethesda.net/en/game/starfield), [Kards](https://www.kards.com/)
+- :game_die: Currently Playing: [Marvel SNAP](https://www.marvelsnap.com/), [Starfield](https://bethesda.net/en/game/starfield)
 - :feet: Fur Babies: Magnus, Mochi
 
 ### :notes: What I'm Listening To 🎧
