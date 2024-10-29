@@ -8,9 +8,9 @@
 ## Hiya 👋
 
 <a href="https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570" target="_blank"><img src="/assets/dog-hello.gif" width="150" align="right"></a>
-Amber is a Game Designer/Developer who thrives when working at the intersection of art, design and code. She uses her background in UI/UX engineering and Frontend Development as a foundation to thoughtfully consider different points of view when solving problems. Amber believes in aproaching things from the user's perspective and constantly examining their experience. This enables her to provide elegant solutions that result in immersive experiences that resonate with users and players alike. 
+Amber is a Game Designer/Developer who thrives when working at the intersection of art, design and code. She uses her background in UI/UX engineering and Frontend Development as a foundation to thoughtfully consider different points of view when solving problems. Amber believes in aproaching things from the user's perspective and constantly examining their experience. This enables her to provide elegant solutions that result in immersive experiences that delight users and players alike. 
 
-Amber is a staunch advocate of maintaining a growdth mindset. This trait has been key to her drive for personal development as well as increasing her vast and ever-growing toolbox. As a passionate designer, engineer, and artist, Amber thrives when given the opportunity to make meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about creating games and experiences for all kinds of players to enjoy.
+Amber is a staunch advocate of maintaining a growdth mindset. This trait has been key to her drive for personal development as well as increasing her vast and ever-growing toolbox. As a passionate designer, engineer, and artist, Amber thrives when given the opportunity to make meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about creating games and experiences for users and players enjoy.
 
 Strengths:
 - Creative Problem Solver
