@@ -1,7 +1,7 @@
 # 📲 Connect With Me 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=27E5F0 "LinkedIn")](https://www.linkedin.com/in/amber-chunn)
-[![Medium](https://img.shields.io/badge/-Medium-0D1117?style=for-the-badge&logo=twitter&logoColor=27E5F0 "Medium")]([https://medium.com/@amber_codes)
+[![Medium](https://img.shields.io/badge/-Medium-0D1117?style=for-the-badge&logo=medium&logoColor=27E5F0 "Medium")]([https://medium.com/@amber_codes)
 
 ---
 
@@ -54,7 +54,7 @@ Strengths:
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat-square&logo=nextdotjs)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
-![ExpressJS](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=Express.js)
+![ExpressJS](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=Express)
 ![styled-components](https://img.shields.io/badge/-Styled_Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=hotpink)
