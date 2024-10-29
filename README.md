@@ -1,16 +1,16 @@
-# :iphone: Connect With Me 📲
+# 📲 Connect With Me 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=27E5F0 "LinkedIn")](https://www.linkedin.com/in/amber-chunn)
 [![Medium](https://img.shields.io/badge/-Medium-0D1117?style=for-the-badge&logo=twitter&logoColor=27E5F0 "Medium")]([https://medium.com/@amber_codes)
-[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=27E5F0 "Email")](mailto:chunn.amber@gmail.com)
-
 
 ---
 
 ## Hiya 👋
 
 <a href="https://tenor.com/view/dog-hello-cute-puppy-hi-gif-17637570" target="_blank"><img src="/assets/dog-hello.gif" width="150" align="right"></a>
-With a background in UI/UX enginerring, Amber is a Technical Artist and Game Designer who thrives when working at the intersection of art, design and code. Having a growdth mindset provides her with a drive for personal development as well as a vast and ever-growing toolbox. Examining different points of view and carefully considering feedback enables her to provide elegant solutions and immersive experiences that resonate with players. She is a passionate artist, designer, and engineer who thrives when adding meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about creating games and experiences for all kinds of players to enjoy. Aside from coding, she loves to play games (both digital and analog), and hang out with her family and friends.
+Amber is a Game Designer/Developer who thrives when working at the intersection of art, design and code. She uses her background in UI/UX engineering and Frontend Development as a foundation to thoughtfully consider different points of view when solving problems. Amber believes in aproaching things from the user's perspective and constantly examining their experience. This enables her to provide elegant solutions that result in immersive experiences that resonate with users and players alike. 
+
+Amber is a staunch advocate of maintaining a growdth mindset. This trait has been key to her drive for personal development as well as increasing her vast and ever-growing toolbox. As a passionate designer, engineer, and artist, Amber thrives when given the opportunity to make meaningful contributions to a dedicated team. Amber is an endlessly curious, lifelong learner who is enthusiastic about creating games and experiences for all kinds of players to enjoy.
 
 Strengths:
 - Creative Problem Solver
@@ -18,16 +18,16 @@ Strengths:
 - Empathetic Communicator
 
 > “I am, and always will be, the optimist. The hoper of far-flung hopes, and the dreamer of improbable dreams.”
-> ― Matt Smith, The Eleventh Doctor
+> ― The Eleventh Doctor
 
 ### 🎈 Fun Facts 🎈
 
 - :postbox: Pronouns: She/Her
 - :hash: AKA: "Ber"
 - :brain: MBTI: INFJ
-- :mortar_board: Learning: Unity UI Kit, Shaders, Particle Systems
-- :books: Reading: [Level Up! The Guide to Great Video Game Design](https://a.co/d/f8M9eGB), [Physically Based Renderring](https://pbrt.org/)
-- :game_die: Currently Playing: [Marvel SNAP](https://www.marvelsnap.com/), [Starfield](https://bethesda.net/en/game/starfield)
+- :mortar_board: Learning: 3D Modeling
+- :books: Reading: [Level Up! The Guide to Great Video Game Design](https://a.co/d/f8M9eGB)
+- :game_die: Currently Playing: [Mineko's Night Market (Switch)](https://www.nintendo.com/us/store/products/minekos-night-market-switch/?srsltid=AfmBOooVAHP09Ent61ZyCjINSaR6drYUXN2vJja6X-wLTNLBrLgJg-2p), [Merge Hexa (iOS)](https://apps.apple.com/us/app/merge-hexa-number-puzzle-game/id1497489224), [Roll for the Gallaxy](https://boardgamegeek.com/boardgame/132531/roll-for-the-galaxy)
 - :feet: Fur Babies: Magnus, Mochi
 
 ### :notes: What I'm Listening To 🎧
@@ -54,6 +54,7 @@ Strengths:
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat-square&logo=nextdotjs)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
+![ExpressJS](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=Express.js)
 ![styled-components](https://img.shields.io/badge/-Styled_Components-0D1117?style=flat-square&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=hotpink)
