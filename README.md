@@ -40,7 +40,7 @@ Strengths:
 
 ### :bowtie: Languages 
 
-![C#](https://img.shields.io/badge/-Csharp-0D1117?style=flat-square&logo=csharp)
+![C#](https://img.shields.io/badge/-sharp-0D1117?style=flat-square&logo=sharp)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=TypeScript&logoColor=3178c6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5)
